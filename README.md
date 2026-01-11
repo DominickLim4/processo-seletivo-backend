@@ -5,7 +5,7 @@
 
 ---
 
-## 1. Arquitetura e Decisões Técnicas
+## 1. Arquitetura
 
 O backend foi construído seguindo o padrão **API REST** com **Processamento Assíncrono**.
 
